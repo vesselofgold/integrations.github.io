@@ -11,14 +11,6 @@ To learn more about the common channels, check out the Chat Channel Conventions.
 
 
 ```How to join?
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Supported Tools
 

@@ -18,13 +18,6 @@ You can use the [editor on GitHub](https://github.com/vesselofgold/integrations.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### How to join?
-
-All Government Employees (with an IDIR account) as well as GitHub users who are apart of the bcgov GitHub Organization have instant access. If you do not have access, please refer to the instructions here for details: https://developer.gov.bc.ca/Community-and-Events/Steps-to-join-Pathfinder-Rocket.Chat
-To learn more about the common channels, check out the Chat Channel Conventions. 
-
-
-```How to join?
 Syntax highlighted code block
 
 - Bulleted

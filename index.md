@@ -10,6 +10,21 @@ All Government Employees (with an IDIR account) as well as GitHub users who are 
 To learn more about the common channels, check out the Chat Channel Conventions. 
 
 
+```How to join?
+
+## Welcome to the AG Business Application Integrations Community
+
+You can use the [editor on GitHub](https://github.com/vesselofgold/integrations.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Syntax highlighted code block
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Supported Tools
@@ -36,15 +51,6 @@ In order to help facilitate agile development, the Integration Delivery Service 
 ### Service Model
 
 While we aim for self-service in as many tasks as possible, there are some tasks for which a self-service option is not feasible.
-
-### AG GitHub Space in JPSS
-
-### Documentation
-#### Technology
-#### Policies
-#### Best Practices
-#### Processes
-#### Resources
 
 ### Support or Contact
 

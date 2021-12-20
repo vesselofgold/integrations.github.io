@@ -39,4 +39,4 @@ While we aim for self-service in as many tasks as possible, there are some tasks
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](support@integrations.io) and we’ll help you sort it out.

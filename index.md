@@ -1,6 +1,6 @@
 ## Welcome to the AG Business Application Integrations Community
 
-![BC Gov](docs/images/bc_gov.jpg)
+![BC Gov](/bc_gov.jpg)
 
 You can use the [editor on GitHub](https://github.com/vesselofgold/integrations.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

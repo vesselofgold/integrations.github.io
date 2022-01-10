@@ -1,10 +1,7 @@
-## Welcome to the AG Business Application Integrations Community
+## The Integration Delivery Service Portal
 
-You can use the [editor on GitHub](https://github.com/vesselofgold/integrations.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to the Justice and Public Safety Sector Integration Delivery Service Portal!![image](https://user-images.githubusercontent.com/48148946/148827173-1b747e25-b32a-49b8-8696-66172e3111f9.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### How to join?
 
 All Government Employees (with an IDIR account) as well as GitHub users who are apart of the bcgov GitHub Organization have instant access. If you do not have access, please refer to the instructions here for details: https://developer.gov.bc.ca/Community-and-Events/Steps-to-join-Pathfinder-Rocket.Chat
 To learn more about the common channels, check out the Chat Channel Conventions. 
@@ -37,4 +34,4 @@ While we aim for self-service in as many tasks as possible, there are some tasks
 
 ### Support or Contact
 
-Having trouble with Pages? [contact support](support@integrations.io) and we’ll help you sort it out.
+You can use the [editor on GitHub](https://github.com/vesselofgold/integrations.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

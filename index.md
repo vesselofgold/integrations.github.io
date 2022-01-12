@@ -30,8 +30,20 @@ There are many conflicting drivers and even more possible 'right' solutions. Unf
 * Lack of Application Programming Interface (API) management repository/catalogue & processes
 * Poor vendor-developer experience (i.e., not easy to find who to work with inside ISB and for what)
 
-
 ![image](/images/pain points.png)
+
+***
+### What is an integration Service?
+
+In order to connect two systems via an integration solution, a number of things have to happen. These things make up the middleware – the things that sit between applications. Applications need to transport data from one application to the next. No matter the data, the data needs to be understood by both ends and needs to be transported, usually across a network.
+
+![image](/images/integration service.png)
+
+### Essentially, an integration service:
+* Mediate between the systems and applications, transforming data from one format to another;
+* Route data to the correct system;
+* Provide security assurance, auditing and governance functions
+
 
 
 ### Support or Contact

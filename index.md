@@ -8,7 +8,7 @@ Delivery of integration services is complex and requires a tailored approach to 
 There are many conflicting drivers and even more possible 'right' solutions. Unfortunately, there is no "cookbook" for enterprise integration solutions. The integration delivery service framework being developed as part of this modernization project will provide methodologies and best practices.
 Overall vision is to design and deliver solutions that are forward-thinking, adaptable, and scalable by supporting common components, interoperability, and ecosystem approaches. All hosted on stable and robust infrastructures.
 
-![image](/blob/gh-pages/docs/images/welcome.png)
+![image](/images/welcome.png)
 
 
 All Government Employees (with an IDIR account) as well as GitHub users who are apart of the bcgov GitHub Organization have instant access. If you do not have access, please refer to the instructions here for details: https://developer.gov.bc.ca/Community-and-Events/Steps-to-join-Pathfinder-Rocket.Chat

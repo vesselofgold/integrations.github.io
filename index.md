@@ -10,6 +10,12 @@ There are many conflicting drivers and even more possible 'right' solutions. Unf
 
 ![image](/images/welcome.png)
 
+***
+
+### Integrations Lifecycle
+
+![image](/images/lifecycle.png)
+
 
 All Government Employees (with an IDIR account) as well as GitHub users who are apart of the bcgov GitHub Organization have instant access. If you do not have access, please refer to the instructions here for details: https://developer.gov.bc.ca/Community-and-Events/Steps-to-join-Pathfinder-Rocket.Chat
 To learn more about the common channels, check out the Chat Channel Conventions. 

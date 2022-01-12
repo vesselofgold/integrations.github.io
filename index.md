@@ -2,6 +2,7 @@
 
 ### Welcome to the Justice and Public Safety Sector Integration Delivery Service Portal!
 The JPSS Information Services Branch (ISB) has identified the need to update its outdated integration technology and associated services. The current technology and services are not meeting the needs of the sector clients, because they are challenging to maintain and are being discontinued by suppliers. 
+
 ####
 Delivery of integration services is complex and requires a tailored approach to meet sector needs. There is no one-size-fits-all model of integration that is appropriate for all organizations and communities. 
 There are many conflicting drivers and even more possible 'right' solutions. Unfortunately, there is no "cookbook" for enterprise integration solutions. The integration delivery service framework being developed as part of this modernization project will provide methodologies and best practices.
